@@ -1,0 +1,35 @@
+[
+	{
+		"pid": 1,
+		"title": "Producto 1 modificado",
+		"description": "Descripcion 1 modificada",
+		"code": "1234",
+		"price": 100,
+		"status": "active",
+		"stock": 10,
+		"category": "category 1",
+		"thumbnails": "thumbnail1"
+	},
+	{
+		"pid": 2,
+		"title": "Producto 2 modificado",
+		"description": "Descripcion 2 modificada",
+		"code": "1234",
+		"price": 100,
+		"status": "active",
+		"stock": 10,
+		"category": "category 1",
+		"thumbnails": "thumbnail1"
+	},
+	{
+		"pid": 4,
+		"title": "Producto 4",
+		"description": "Descripcion 4",
+		"code": "1234",
+		"price": 100,
+		"status": "active",
+		"stock": 10,
+		"category": "category 2",
+		"thumbnails": "thumbnail1"
+	}
+]
